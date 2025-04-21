@@ -1,11 +1,8 @@
 # 🧁 O Mistério do Doce Desaparecido - HQ da Turma da Mônica (Inspirada)
 
 ## 👥 Integrantes
-- Gabriel Silva
-- Ana Costa
-- João Ferreira
-- Mariana Lima
-
+- Gabriel Morosini Riccato Vicente
+- 
 ## 📖 Descrição do Projeto
 Esta HQ foi criada como parte de uma atividade colaborativa utilizando metodologias ágeis e ferramentas de IA generativa. Inspirada no universo da Turma da Mônica, a história traz um mistério divertido que envolve toda a turma do Bairro do Limoeiro.
 
@@ -37,5 +34,3 @@ Esta HQ foi criada como parte de uma atividade colaborativa utilizando metodolog
 - Roteiro e arte divididos entre os membros da equipe.
 - Utilização de **ChatGPT** para criar roteiro e falas.
 - Utilização de **DALL·E** para gerar imagens no estilo cartoon.
-
-## 📂 Estrutura do Projeto
