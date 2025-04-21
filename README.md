@@ -34,3 +34,7 @@ Esta HQ foi criada como parte de uma atividade colaborativa utilizando metodolog
 - Roteiro e arte divididos entre os membros da equipe.
 - Utilização de **ChatGPT** para criar roteiro e falas.
 - Utilização de **DALL·E** para gerar imagens no estilo cartoon.
+
+## 🔗 Links
+- https://github.com/GMorosini/turma-da-monica/issues/1
+- https://github.com/users/GMorosini/projects/2/views/1
