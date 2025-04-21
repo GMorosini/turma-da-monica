@@ -2,7 +2,7 @@
 
 ## 👥 Integrantes
 - Gabriel Morosini Riccato Vicente
-- 
+  
 ## 📖 Descrição do Projeto
 Esta HQ foi criada como parte de uma atividade colaborativa utilizando metodologias ágeis e ferramentas de IA generativa. Inspirada no universo da Turma da Mônica, a história traz um mistério divertido que envolve toda a turma do Bairro do Limoeiro.
 
